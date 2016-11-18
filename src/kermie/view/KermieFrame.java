@@ -22,7 +22,7 @@ public class KermieFrame extends JFrame
 	{
 		this.setContentPane(appPanel);
 		this.setTitle("Hipster Day 2016");
-		this.setSize(new Dimension (600,400));
+		this.setSize(new Dimension (800,600));
 		this.setResizable(false);
 		this.setVisible(true);
 	}
